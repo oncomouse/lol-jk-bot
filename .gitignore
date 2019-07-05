@@ -4,3 +4,4 @@
 !.gitignore
 !Readme.md
 !/*.json
+!/*.db
